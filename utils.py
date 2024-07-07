@@ -17,7 +17,7 @@ class Accumulator:
     def reset(self):                # 重置累加器的状态，将所有元素重置为0.0
         self.data = [0.0] * len(self.data)
 
-    def __getitem__(self, idx):     # 获取所有数据
+    def __getitem__(self, idx):     # 获取索引值
         return self.data[idx]
 
 
