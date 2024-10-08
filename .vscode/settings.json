@@ -1,0 +1,29 @@
+{
+  "cSpell.words": [
+    "arange",
+    "bigram",
+    "dtype",
+    "figsize",
+    "freqs",
+    "hiddens",
+    "imshow",
+    "keepdim",
+    "multistep",
+    "onestep",
+    "optim",
+    "preds",
+    "randn",
+    "relu",
+    "softmax",
+    "subseqs",
+    "timemachine",
+    "torchvision",
+    "xaxis",
+    "xlabel",
+    "xlim",
+    "xscale",
+    "yaxis",
+    "ylabel",
+    "yscale"
+  ]
+}
